@@ -1,0 +1,25 @@
+std\:lang-html-tag {
+	color: #d6d;
+	font-family: monospace;
+}
+
+std\:lang-html-tag-name {
+	font-weight: bold;
+}
+
+std\:lang-html-attrs {
+	font-style: italic;
+}
+
+std\:lang-html-attr-value {
+	color: #d66;
+}
+
+std\:lang-html-comment {
+	color: #ddd;
+}
+
+std\:lang-html-sgml {
+	color: #ddd;
+	font-style: italic;
+}
