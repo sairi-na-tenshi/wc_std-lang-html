@@ -1,0 +1,12 @@
+hl\:js-remark {
+	color: #bbb;
+}
+
+hl\:js-string {
+	color: #393;
+}
+
+hl\:js-keyword {
+	color: #339;
+	font-weight: bold;
+}
